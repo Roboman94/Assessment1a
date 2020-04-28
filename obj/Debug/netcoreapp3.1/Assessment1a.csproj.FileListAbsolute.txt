@@ -1,0 +1,13 @@
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\bin\Debug\netcoreapp3.1\Assessment1a.exe
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\bin\Debug\netcoreapp3.1\Assessment1a.deps.json
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\bin\Debug\netcoreapp3.1\Assessment1a.runtimeconfig.json
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\bin\Debug\netcoreapp3.1\Assessment1a.runtimeconfig.dev.json
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\bin\Debug\netcoreapp3.1\Assessment1a.dll
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\bin\Debug\netcoreapp3.1\Assessment1a.pdb
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\obj\Debug\netcoreapp3.1\Assessment1a.csprojAssemblyReference.cache
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\obj\Debug\netcoreapp3.1\Assessment1a.csproj.CoreCompileInputs.cache
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\obj\Debug\netcoreapp3.1\Assessment1a.AssemblyInfoInputs.cache
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\obj\Debug\netcoreapp3.1\Assessment1a.AssemblyInfo.cs
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\obj\Debug\netcoreapp3.1\Assessment1a.dll
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\obj\Debug\netcoreapp3.1\Assessment1a.pdb
+C:\Users\kenda\source\repos\Assessment1a\Assessment1a\obj\Debug\netcoreapp3.1\Assessment1a.genruntimeconfig.cache
